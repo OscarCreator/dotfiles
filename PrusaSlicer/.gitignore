@@ -1,3 +1,5 @@
 cache
 ArchiveRepositoryManifest.json
 *.idx
+snapshots/
+vendor/PrusaResearch/
